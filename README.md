@@ -1,12 +1,23 @@
-# llarie
-Hello and Welcome :)
+# 👋 Hi, I'm Llarie Salinas!  
 
-My name is Llarie Salinas, I am Filipino. I was born on 18 January 2005. I am always interested in taking part new projects and gaining new skills.
+🎯 **Aspiring Software Engineer | Data Science Enthusiast | Content Creator**  
 
-A Little About Me:
-I am currently attending Central Philippine University taking Computer Science majoring in Data Science. I am a Youtuber.
+## 🚀 About Me  
+I'm a **Computer Science student majoring in Data Science** at **Central Philippine University**. Passionate about technology, problem-solving, and continuous learning, I thrive on exploring new projects and expanding my skill set.  
 
-My Hobbies :
-- Making Videos for Youtube
-- Studying
-- Reading
+Beyond coding, I'm also a **YouTuber**, where I share insights into my tech journey, student life, and creative projects.  
+
+## 🛠️ Tech Stack  
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Python, R, Flutter, C#  
+- **Databases & Tools:** SQL  
+- **Other Skills:** Content Creation, UI/UX Basics  
+
+## 📌 Hobbies & Interests  
+- 🎬 **Content Creation** – I make YouTube videos about tech, lifestyle, and learning.  
+- 📚 **Lifelong Learning** – Constantly improving my coding, analytical, and problem-solving skills.  
+- 📖 **Reading** – Staying updated with the latest trends in tech, business, and self-improvement.  
+
+## 📫 Let's Connect!  
+📧 **Email:** llariesalinas@gmail.com
+📌 **LinkedIn:** [LinkedIn]  ](https://www.linkedin.com/in/llariesalinas/)
+📌 **YouTube:** [[YouTube]](https://www.youtube.com/@LLARIE)  
