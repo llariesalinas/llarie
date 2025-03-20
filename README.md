@@ -12,11 +12,6 @@ Beyond coding, I'm also a **YouTuber**, where I share insights into my tech jour
 - **Databases & Tools:** SQL  
 - **Other Skills:** Content Creation, UI/UX Basics  
 
-## 📌 Hobbies & Interests  
-- 🎬 **Content Creation** – I make YouTube videos about tech, lifestyle, and learning.  
-- 📚 **Lifelong Learning** – Constantly improving my coding, analytical, and problem-solving skills.  
-- 📖 **Reading** – Staying updated with the latest trends in tech, business, and self-improvement.  
-
 ## 📫 Let's Connect!  
 📧 **Email:** llariesalinas@gmail.com
 📌 **LinkedIn:** [LinkedIn]  ](https://www.linkedin.com/in/llariesalinas/)
